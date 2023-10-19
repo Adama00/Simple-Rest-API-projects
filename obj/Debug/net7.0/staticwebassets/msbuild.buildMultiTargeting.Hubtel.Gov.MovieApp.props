@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hubtel.Gov.MovieApp.props" />
+</Project>
